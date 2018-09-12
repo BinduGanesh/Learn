@@ -12,6 +12,7 @@
 <p>
 Its already too late. Fasten your pace and explore.
 </p>
+
 <style>
 h1 {
   color:blue;
