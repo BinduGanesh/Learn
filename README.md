@@ -4,7 +4,6 @@
 <head>
 <title>First</title>
 <meta charset="utf-8">
-<link rel="stylesheet" href="style.css"
 </head>
 
 <h1>LEARN!</h1>
